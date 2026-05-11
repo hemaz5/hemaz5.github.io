@@ -127,7 +127,7 @@
     <h2>تواصل معي</h2>
     <p>
       📧 Email: ibrahimazzab7@email.com <br />
-      📱 WhatsApp: +201019740079 <br />
+      📱 WhatsApp: +201515065244 <br />
       🔗 YouTube / Behance / Instagram
       <a href="https://www.instagram.com/_3azzab_" target="_blank" 
    style="display:inline-block; background:#1e3a8a; padding:10px 18px; border-radius:20px;">
