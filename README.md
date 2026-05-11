@@ -133,7 +133,7 @@
    style="display:inline-block; background:#1e3a8a; padding:10px 18px; border-radius:20px;">
   📸 Instagram
 </a>
-<a href="https://www.tiktok.com/@azabforediting" target="_blank" 
+<a href="https://www.tiktok.com/@azab4editing" target="_blank" 
    style="display:inline-block; background:#1e3a8a; padding:10px 18px; border-radius:20px;">
   📸 Tiktok
 </a>
